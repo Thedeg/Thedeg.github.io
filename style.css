@@ -39,64 +39,19 @@
 
 /* Dropdown */
 
-.dropdown-menu-1 {
+.dropdown-menu {
   font-size: 16px;
   margin-top: 5px;
   min-width: 105px;
 }
 
-.dropdown-menu-1 li a {
+.dropdown-menu li a {
   color: #898989;
   padding: 6px 20px;
   font-weight: 300;
 }
 
-.dropdown-menu-2 {
-  font-size: 16px;
-  margin-top: 5px;
-  min-width: 105px;
-}
 
-.dropdown-menu-3 li a {
-  color: #898989;
-  padding: 6px 20px;
-  font-weight: 300;
-}
-.dropdown-menu-3 {
-  font-size: 16px;
-  margin-top: 5px;
-  min-width: 105px;
-}
-
-.dropdown-menu-3 li a {
-  color: #898989;
-  padding: 6px 20px;
-  font-weight: 300;
-}
-
-.dropdown-menu-4 {
-  font-size: 16px;
-  margin-top: 5px;
-  min-width: 105px;
-}
-
-.dropdown-menu-4 li a {
-  color: #898989;
-  padding: 6px 20px;
-  font-weight: 300;
-}
-
-.dropdown-menu-5 {
-  font-size: 16px;
-  margin-top: 5px;
-  min-width: 105px;
-}
-
-.dropdown-menu-5 li a {
-  color: #898989;
-  padding: 6px 20px;
-  font-weight: 300;
-}
 /* Carousel */
 
 .slider {
