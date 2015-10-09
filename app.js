@@ -1,6 +1,6 @@
 var main = function(){
     $('.dropdown-toggle').click(function(){
-    $('.dropdown-menu-1').toggle();
+    $('.dropdown-menu').toggle();
     
 });
 
